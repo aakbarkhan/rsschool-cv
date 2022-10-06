@@ -16,7 +16,7 @@ Contact information:
 # Skills and Proficiency:
  * HTML5, CSS3
  * JavaScript,
- * React,
+ * React, BootStrap,Sass
  * Git, GitHub
  * Python, Ruby on Rails and Ruby.
 
