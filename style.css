@@ -1,0 +1,37 @@
+body{
+    margin: 0 15%;
+    font-family: 'Roboto', sans-serif;
+}
+
+header,.name{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body > main > section > article:nth-child(6) > ul > li:nth-child(2){
+    text-decoration: underline;
+}
+
+.example, .logo{
+    list-style-type: none;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gitname{
+    text-decoration: underline;
+    color: rgb(95, 95, 187);
+}
+
+img{
+    width: 100px;
+    height: 30px;
+}
