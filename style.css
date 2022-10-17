@@ -10,10 +10,11 @@ header,.name{
 .profile {
     position: absolute;
     width: 100%;
-    left: 221px;
+    left: 258px;
 }
 
 .pic {
+    width: 12%;
     height: 50%;
 }
 
