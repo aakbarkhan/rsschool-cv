@@ -9,16 +9,16 @@ header,.name{
 
 .profile {
     position: absolute;
-    width: 100%;
-    left: 258px;
+    /* width: 100%; */
+    left: 753px;
 }
 
 .pic {
-    width: 12%;
-    height: 50%;
+    width: 100%;
+    height: 248px;
 }
 
-a{
+a {
     text-decoration: none;
     color: black;
 }
