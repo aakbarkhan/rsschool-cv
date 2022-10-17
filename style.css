@@ -7,6 +7,16 @@ header,.name{
     text-align: center;
 }
 
+.profile {
+    position: absolute;
+    width: 100%;
+    left: 221px;
+}
+
+.pic {
+    height: 50%;
+}
+
 a{
     text-decoration: none;
     color: black;
